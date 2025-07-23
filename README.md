@@ -24,7 +24,7 @@
   </section>
 
   <section>
-    <h2>🍽️ Diet & Meals</h2>
+    <h2>🍽️🥗 Diet & Meals</h2>
     <p>Check out what I eat in a typical day to stay fueled and build muscle.</p>
   </section>
 
