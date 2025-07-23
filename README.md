@@ -18,7 +18,6 @@
       <li>Push/Pull/Legs Split</li>
           <p>Check out my Push/Pull/Legs Split in the link below.</p>
                 <p>https://docs.google.com/document/d/14OyDu0h0BpF2R3Zic5-Oq5T9zgZ4emv7py7O-SK3yaA/edit?usp=sharing</p>
-
       <li>Full Body Beginner Workout</li>
       <li>Home Dumbbell Routine</li>
     </ul>
