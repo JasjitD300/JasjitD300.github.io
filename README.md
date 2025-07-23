@@ -13,7 +13,7 @@
   </header>
 
   <section>
-    <h2>🏋️ Workout Routines</h2>
+    <h2>❚█══█❚ Workout Routines</h2>
     <ul>
       <li>Push/Pull/Legs Split</li>
           <p>Check out my Push/Pull/Legs Split in the link below.</p>
