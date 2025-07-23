@@ -12,17 +12,21 @@
     <p>Welcome to my personal fitness journey!</p>
   </header>
 
-  <section>
-    <h2>🏋️ Workout Routines</h2>
-    <ul>
-      <li>Push/Pull/Legs Split</li>
-    <div style="margin-left: 15px;">
-    <p>Check out my Push/Pull/Legs Split in the link below.</p>
-    <p>https://docs.google.com/document/d/14OyDu0h0BpF2R3Zic5-Oq5T9zgZ4emv7py7O-SK3yaA/edit?usp=sharing</p>
-      <li>Full Body Beginner Workout</li>
-      <li>Home Dumbbell Routine</li>
-    </ul>
-  </section>
+<section>
+  <h2>🏋️ Workout Routines</h2>
+  <ul>
+    <li>
+      Push/Pull/Legs Split
+      <div style="margin-left: 15px;">
+        <p>Check out my Push/Pull/Legs Split in the link below.</p>
+        <p><a href="https://docs.google.com/document/d/14OyDu0h0BpF2R3Zic5-Oq5T9zgZ4emv7py7O-SK3yaA/edit?usp=sharing" target="_blank">Google Doc Link</a></p>
+      </div>
+    </li>
+    <li>Full Body Beginner Workout</li>
+    <li>Home Dumbbell Routine</li>
+  </ul>
+</section>
+
 
   <section>
     <h2>🍽️ Diet & Meals</h2>
